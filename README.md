@@ -1,1 +1,1 @@
-# recetas_aws
+# recetas to aws
